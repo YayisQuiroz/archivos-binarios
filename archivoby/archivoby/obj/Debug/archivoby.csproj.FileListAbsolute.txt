@@ -1,0 +1,10 @@
+C:\Users\Nieves\source\repos\archivoby\archivoby\bin\Debug\archivoby.exe.config
+C:\Users\Nieves\source\repos\archivoby\archivoby\bin\Debug\archivoby.exe
+C:\Users\Nieves\source\repos\archivoby\archivoby\bin\Debug\archivoby.pdb
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.csprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.Form1.resources
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.Properties.Resources.resources
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.csproj.GenerateResource.cache
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.csproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.exe
+C:\Users\Nieves\source\repos\archivoby\archivoby\obj\Debug\archivoby.pdb
